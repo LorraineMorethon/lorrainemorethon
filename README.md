@@ -24,4 +24,3 @@ Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas,
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorrainemorethon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/lorrainemorethon/lorrainemorethon/blob/output/github-contribution-grid-snake.svg)
