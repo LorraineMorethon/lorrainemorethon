@@ -9,7 +9,7 @@ Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas,
 - 💬 Gosto de trocar experiências e me conectar com as pessoas!
 - 📫 Moro em São Gonçalo/RJ.
 
-  ![octocat-1710433548394](https://github.com/LorraineMorethon/lorrainemorethon/assets/158117337/838deb55-1b00-4be2-bcad-4b5789baf6e8 "width=100px")
+  [![octocat-1710433548394](https://github.com/LorraineMorethon/lorrainemorethon/assets/158117337/838deb55-1b00-4be2-bcad-4b5789baf6e8 "width=100px")](https://github.com/LorraineMorethon/lorrainemorethon/issues/1#issue-2187126857)
 
   
 
