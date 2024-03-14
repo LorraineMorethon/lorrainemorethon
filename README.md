@@ -1,4 +1,4 @@
-# 👋 Olá! sejam ben vindos ao meu perfil Github.
+# 👋 Olá! sejam bem vindos ao meu perfil Github.
 ## me chamo Lorraine!
 Sou uma entusiasta de software, apaixonada pelo mundo tech, curiosa e bastante dedicada! 
 Atualmente trabalho como analista de suporte técnico, tratando incidentes e requisições na empresa Connectcom.
