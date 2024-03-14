@@ -8,3 +8,9 @@ Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas,
 - 👯 Conheçam os meus projetos! :heart_eyes:
 - 💬 Gosto de trocar experiências e me conectar com as pessoas!
 - 📫 Moro em São Gonçalo/RJ.
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/lorraine-morethson-ti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
