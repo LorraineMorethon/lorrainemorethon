@@ -1,13 +1,12 @@
 # 👋 Olá! sejam bem vindos ao meu perfil Github.
 ## me chamo Lorraine!
 Sou uma entusiasta de software, apaixonada pelo mundo tech, curiosa e bastante dedicada! 
-Atualmente trabalho como analista de suporte técnico, tratando incidentes e requisições na empresa Connectcom.
-Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas, sempre em busca de conhecimento, estudo também programação com a Alura, me dedicando a projetos pessoais e aos desafios que o curso propõe, mergulhando cada vez mais fundo e me encantando com a área. 
+Formada em Análise e Desenvolvimento de sistemas, sempre em busca de conhecimento, estudo também programação com a Alura, me dedicando a projetos pessoais e aos desafios que o curso propõe, mergulhando cada vez mais fundo e me encantando com a área. 
 
-- 🔭 Tenho aproximadamente 5 anos atuando na área de suporte ao usuário. :computer:
+- 🔭 Tenho aproximadamente 5 anos atuando na área de suporte ao usuário, análise de sistemas e implementação de processos. :computer:
 - 👯 Conheçam os meus projetos, estou disponível para sugestões! :heart_eyes:
 - 💬 Gosto de trocar experiências e me conectar com as pessoas!
-- 📫 Moro em São Gonçalo/RJ.
+- 📫 Moro em Niterói/RJ.
 
   [![octocat-1710433548394](https://github.com/LorraineMorethon/lorrainemorethon/assets/158117337/838deb55-1b00-4be2-bcad-4b5789baf6e8 "width=100px")](https://github.com/LorraineMorethon/lorrainemorethon/issues/1#issue-2187126857)
 
