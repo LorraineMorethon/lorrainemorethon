@@ -1,6 +1,7 @@
 # 👋 Olá! sejam bem vindos ao meu perfil Github.
 ## me chamo Lorraine!
 Sou uma entusiasta de software, apaixonada pelo mundo tech, curiosa e bastante dedicada! 
+
 Formada em Análise e Desenvolvimento de sistemas, sempre em busca de conhecimento, estudo também programação com a Alura, me dedicando a projetos pessoais e aos desafios que o curso propõe, mergulhando cada vez mais fundo e me encantando com a área. 
 
 - 🔭 Tenho aproximadamente 5 anos atuando na área de suporte ao usuário, análise de sistemas e implementação de processos. :computer:
