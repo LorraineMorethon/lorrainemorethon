@@ -4,7 +4,7 @@ Sou uma entusiasta de software, apaixonada pelo mundo tech, curiosa e bastante d
 
 Formada em Análise e Desenvolvimento de sistemas, sempre em busca de conhecimento, estudo também programação com a Alura, me dedicando a projetos pessoais e aos desafios que o curso propõe, mergulhando cada vez mais fundo e me encantando com a área. 
 
-- 🔭 Tenho aproximadamente 5 anos atuando na área de suporte ao usuário, análise de sistemas e implementação de processos. :computer:
+- 🔭 Tenho aproximadamente 5 anos atuando na área de TIC, análise de sistemas e implementação de processos. :computer:
 - 👯 Conheçam os meus projetos, estou disponível para sugestões! :heart_eyes:
 - 💬 Gosto de trocar experiências e me conectar com as pessoas!
 - 📫 Moro em Niterói/RJ.
